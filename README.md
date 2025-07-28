@@ -7,7 +7,7 @@ Personal project developed for front-end developer training
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/cover.png" width="100%">
+  <img alt="projeto DevLinks" src=".github/cover.png" width="200%">
 </p>
 
 ## 🚀 Technologies
