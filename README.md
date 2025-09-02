@@ -1,5 +1,5 @@
 <h1 align="center"> DevLinks </h1>
-
+🚀 Live Demo -> https://brunolopes9.github.io/DevLinks/
 <p align="center">
 Personal project developed for front-end developer training
 </p>
@@ -30,7 +30,6 @@ This project was developed with the following technologies:
 
 DevLinks is a link aggregator that can be used as an online business card.
 
-TESTE HERE -> https://brunolopes9.github.io/DevLinks/ 
 
 ---
 
